@@ -26,7 +26,7 @@ public class Main {
         } else if((a*a == b*b + c*c) || (b*b == a*a + c*c)  || (c*c == a*a + b*b )){
             System.out.println("This is right angled traiagle");
         } else {
-            System.out.println("This is neither equilateral or right angled triangle");
+            System.out.println("This is neither equilateral nor right angled triangle");
         }
     }
 }
